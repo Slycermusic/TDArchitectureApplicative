@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf20912-9ffc-4093-8666-0d7b5a370704" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/Controller/VolumeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/Event/VolumeChangedEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/Frame/JFrameFieldVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/Frame/JFrameListVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/Frame/jFrameSpinnerVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/Model/VolumeModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/View/VolumeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/slycer/tparchitectureapplicatives/hello-view.fxml" afterDir="false" />
+    <list default="true" id="abf20912-9ffc-4093-8666-0d7b5a370704" name="Changes" comment="setup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/Frame/jFrameSpinnerVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slycer/tparchitectureapplicatives/Frame/jFrameSpinnerVolume.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +48,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666012728053</updated>
-      <workItem from="1666012729167" duration="666000" />
+      <workItem from="1666012729167" duration="813000" />
     </task>
+    <task id="LOCAL-00001" summary="setup">
+      <created>1666013439777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666013439777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="setup" />
   </component>
 </project>
